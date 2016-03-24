@@ -1,0 +1,25 @@
+{
+  "name": "angular-freeorder",
+  "authors": [
+    "Tibor Fulop <tibi@mindcrumbs.net>"
+  ],
+  "description": "Include Angular services, directives etc. even before the actual module has been loaded.",
+  "main": "angular.freeorder.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "angularjs"
+  ],
+  "license": "GPL3",
+  "homepage": "https://github.com/fuloptibi/angular.freeorder",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.2"
+  }
+}
